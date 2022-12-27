@@ -174,15 +174,12 @@ a,
   background-color: #042743;
 }
 #main-header div {
-  background-image: url(https://i.gifer.com/YGDb.gif);
-  background-clip: text;
-  -moz-background-clip: text;
   color: transparent;
-  -webkit-background-clip: text;
 }
 #main-header h2 {
   font-size: 32px;
   text-align: center;
+  color: #0dcaf0;
 }
 @media (min-width: 768px) {
   #main-header h2 {
