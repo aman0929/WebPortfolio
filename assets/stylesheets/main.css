@@ -178,6 +178,7 @@ a,
   background-clip: text;
   -moz-background-clip: text;
   color: transparent;
+  -webkit-background-clip: text;
 }
 #main-header h2 {
   font-size: 32px;
